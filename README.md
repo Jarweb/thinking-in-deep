@@ -10,3 +10,4 @@
 - [认识 tree shaking](https://github.com/Jarweb/thinking-in-deep/issues/9)
 - [webpack 的优化手段](https://github.com/Jarweb/thinking-in-deep/issues/8)
 - [webpack 的模块加载分析](https://github.com/Jarweb/thinking-in-deep/issues/10)
+- [webpack 的热更新分析](https://github.com/Jarweb/thinking-in-deep/issues/11)
