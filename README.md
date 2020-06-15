@@ -7,4 +7,5 @@
 - [库开发需要考虑 polyfill 吗](https://github.com/Jarweb/thinking-in-deep/issues/5)
 - [可能建立好团队的3要素](https://github.com/Jarweb/thinking-in-deep/issues/6)
 - [设计一个简单的增量更新方案](https://github.com/Jarweb/thinking-in-deep/issues/7)
+- [认识 tree shaking](https://github.com/Jarweb/thinking-in-deep/issues/9)
 - [webpack 的优化手段](https://github.com/Jarweb/thinking-in-deep/issues/8)
