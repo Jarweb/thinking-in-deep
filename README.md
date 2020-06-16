@@ -11,4 +11,4 @@
 - [webpack 的优化手段](https://github.com/Jarweb/thinking-in-deep/issues/8)
 - [webpack 的模块加载分析](https://github.com/Jarweb/thinking-in-deep/issues/10)
 - [webpack 的热更新分析](https://github.com/Jarweb/thinking-in-deep/issues/11)
-- [preact 10.x 源码阅读](https://github.com/Jarweb/thinking-in-deep/issues/12)
+- [从 preact 10.x 源码知道的](https://github.com/Jarweb/thinking-in-deep/issues/12)
