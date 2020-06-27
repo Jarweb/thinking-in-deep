@@ -5,7 +5,6 @@
 - [多页项目构建的一个小小好处](https://github.com/Jarweb/thinking-in-deep/issues/3)
 - [代码如何拆分](https://github.com/Jarweb/thinking-in-deep/issues/4)
 - [库开发需要考虑 polyfill 吗](https://github.com/Jarweb/thinking-in-deep/issues/5)
-- [可能建立好团队的3要素](https://github.com/Jarweb/thinking-in-deep/issues/6)
 - [设计一个简单的增量更新方案](https://github.com/Jarweb/thinking-in-deep/issues/7)
 - [认识 tree shaking](https://github.com/Jarweb/thinking-in-deep/issues/9)
 - [webpack 的优化手段](https://github.com/Jarweb/thinking-in-deep/issues/8)
@@ -15,3 +14,6 @@
 - [preact-router 源码阅读](https://github.com/Jarweb/thinking-in-deep/issues/13)
 - [react router 源码阅读](https://github.com/Jarweb/thinking-in-deep/issues/16)
 - [svelte 源码阅读](https://github.com/Jarweb/thinking-in-deep/issues/15)
+
+- [关于业务开发的思考](https://github.com/Jarweb/thinking-in-deep/issues/17)
+- [可能建立好团队的3要素](https://github.com/Jarweb/thinking-in-deep/issues/6)
