@@ -8,7 +8,7 @@
 - [webpack 的优化手段](https://github.com/Jarweb/thinking-in-deep/issues/8)
 - [库开发需要考虑 polyfill 吗](https://github.com/Jarweb/thinking-in-deep/issues/5)
 - [一个简单的增量更新方案设计](https://github.com/Jarweb/thinking-in-deep/issues/7)
-- [面向组件的发布模式设计](https://github.com/Jarweb/thinking-in-deep/issues/19)
+- [面向组件发布的应用模式设计](https://github.com/Jarweb/thinking-in-deep/issues/19)
 
 
 <br>
