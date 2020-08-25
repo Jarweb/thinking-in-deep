@@ -19,6 +19,7 @@
 - [preact-router 源码阅读](https://github.com/Jarweb/thinking-in-deep/issues/13)
 - [react router 源码阅读](https://github.com/Jarweb/thinking-in-deep/issues/16)
 - [svelte 源码阅读](https://github.com/Jarweb/thinking-in-deep/issues/15)
+- [react 16.13.1 源码阅读](https://github.com/Jarweb/thinking-in-deep/issues/20)
 
 <br>
 
